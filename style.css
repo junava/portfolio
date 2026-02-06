@@ -1,6 +1,6 @@
 body {
   background-color: rgb(255, 224, 203);
-  background-image: url('/imgs/bg.png');
+  background-image: url('bg.png');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
@@ -63,4 +63,5 @@ button {
   margin-top: 20px;
   font-family: "Open Sans", sans-serif;
   font-weight: 300;
+
 }
