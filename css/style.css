@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(255, 224, 203);
+  background-image: url('/imgs/bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  background-clip: border-box;
+}
+.resume {
+  margin: auto;
+  width: 800px;
+  border: 5px solid rgb(189, 76, 1);
+  padding: 50px;
+  background-color: rgb(255, 245, 230);
+}
+.fullname {
+  text-align: center;
+  margin-top: -175px;
+  padding-bottom: 50px;
+  padding-left: 125px;
+  font-size: 30px;
+}
+.contact-info {
+line-height: 1.5;
+}
+h1, h2, p, li, a {
+  color: rgb(58, 0, 0);
+font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+img {
+  border: 2px solid rgb(189, 76, 1);
+  border-radius: 50%;
+  size: 100px;
+}
+h1 {
+  font-family: "Belleza", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+    font-weight: bold;
+}
+#boldp {
+    font-weight: bold;
+}    
+header  {
+  width: 800px;
+  text-align: justify;
+}
+button {
+  background-color: rgb(189, 76, 1);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
