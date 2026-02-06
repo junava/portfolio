@@ -1,8 +1,8 @@
 function locationURL() {
-    location.href = "/html/page2.html";
+    location.href = "/main/portfolio/html/page2.html";
 }   
 function locationURL() {
-    location.href = "/html/calc.html";
+    location.href = "/main/portfolio/html/calc.html";
 }  
 function showAlert() {
     alert("This is a simple calculator!");
@@ -19,4 +19,5 @@ if (isNaN(num1) || isNaN(num2)) {
     const sum = num1 + num2;
     console.log("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
+
 }
